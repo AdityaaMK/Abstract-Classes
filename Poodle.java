@@ -1,4 +1,4 @@
-public class GoldenRetriever extends Dog{
+public class Poodle extends Dog{
 
     public void speak(){
         sound();
