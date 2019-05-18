@@ -1,7 +1,7 @@
-public class Poodle extends Dog{
+public class GoldenRetriever extends Dog{
 
     public void speak(){
         sound();
-        System.out.println("Yip Yip!");
+        System.out.println("Bark Bark!");
     }
 }
